@@ -15,7 +15,5 @@ public class Cheer03 {
 		}else{
 			System.out.println("儿童");
 		}
-		
 	}
-
 }

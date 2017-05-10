@@ -9,5 +9,4 @@ public class cheer02 {
 			System.out.println(i);
 		}
 	}
-
 }

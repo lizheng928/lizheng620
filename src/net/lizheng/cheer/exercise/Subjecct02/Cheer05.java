@@ -9,8 +9,7 @@ public class Cheer05 {
 			sum =sum+i;
 			i++;
 			
-		}System.out.println(sum);
-		
+		}System.out.println(sum);		
 	}
 
 }
